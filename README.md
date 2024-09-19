@@ -7,3 +7,6 @@ Kullanılan veri seti, 50000 satır ve 14 sütundan oluşur.
 
 ## Proje Sunucu:
 Yapılan Çapraz doğrulama sonucunda diğer modellere kıyasla en yüksek doğruluk oranına sahip model Karar Ağacı Modelidir. Ancak yine de %23 civarında bir doğruluk oranı, bu modelin veriler üzerinde düşük performans gösterdiğini işaret eder.
+
+## Kaggle adresi:
+https://www.kaggle.com/code/ervaalk/gaih-mlproject
