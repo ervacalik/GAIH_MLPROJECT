@@ -5,8 +5,9 @@ Bu proje, şarapların üretildiği ülke, üzüm vb. özelliklerine göre puan�
 ## Veri Seti
 Kullanılan veri seti, 50000 satır ve 14 sütundan oluşur.
 
-## Proje Sunucu:
-Yapılan Çapraz doğrulama sonucunda diğer modellere kıyasla en yüksek doğruluk oranına sahip model Karar Ağacı Modelidir. Ancak yine de %23 civarında bir doğruluk oranı, bu modelin veriler üzerinde düşük performans gösterdiğini işaret eder.
+## Proje Sonucu:
+Yapılan Çapraz doğrulama sonucunda diğer modellere kıyasla en yüksek doğruluk oranına sahip model Karar Ağacı Modelidir. Ancak yine de %23 civarında bir doğruluk oranı, bu modelin veriler üzerinde düşük performans gösterdiğini işaret eder. Bu, ya veri setinde modelin öğrenmesini zorlaştıran bir karmaşıklık olduğunu ya da özellik mühendisliğinde ve model parametrelerinde iyileştirmeler yapılması gerektiğini gösteriyor.
+Eğer amacınız veri setindeki doğal kümelemeleri veya grupları keşfetmek ise, K-ortalama kümeleme uygundur.
 
 ## Kaggle adresi:
 https://www.kaggle.com/code/ervaalk/gaih-mlproject
