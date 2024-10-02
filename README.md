@@ -4,6 +4,7 @@ Bu proje, şarapların üretildiği ülke, üzüm vb. özelliklerine göre puan�
 
 ## Veri Seti
 Kullanılan veri seti, 50000 satır ve 14 sütundan oluşur.
+
 Öznitelikler:
 * country
 * description
